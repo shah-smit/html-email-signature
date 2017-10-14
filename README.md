@@ -1,1 +1,1 @@
-# html-email-signature
+# HTML Email Signature
